@@ -15,7 +15,7 @@ null && request.getParameter("email")
  == null) { %>     
 <CENTER style='font-family: cursive; padding: 15px;background:white;width: 25%;border: 1px solid;border-radius: 12px;'>     
 <H2>User Info Request Form</H2>
-<FORM METHOD="GET" ACTION="status/status/form.jsp">     
+<FORM METHOD="GET" ACTION="form.jsp">     
 <P>     
 Your name: <input type="text" name=
 "name" size=26>     
