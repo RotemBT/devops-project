@@ -8,7 +8,7 @@
 <BODY BGCOLOR="#6699ff" style='display: flex;
     justify-content: center;
     align-items: center;'>     
-uest.getParameter("name")==
+<% if (request.getParameter("name")==
 null && request.getParameter("email")
  == null) { %>     
 <CENTER style='font-family: cursive; padding: 15px;background:white;width: 25%;border: 1px solid;border-radius: 12px;'>     
