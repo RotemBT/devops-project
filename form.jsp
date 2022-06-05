@@ -1,9 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 
-<style type="text/css"> 
-	//css code 
-</style>
-<HTML>     
-<HEAD>     
+   
 <TITLE>Form Example</TITLE>     
 </HEAD>     
 <BODY BGCOLOR="#6699ff" style='display: flex;
